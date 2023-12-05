@@ -1,0 +1,32 @@
+body{
+    background-color: rgba(241, 152, 152, 0.543);
+    text-align: center;
+}
+h1{
+    color: rgba(235, 124, 235, 0.832);
+    text-decoration: rgb(255, 255, 255);
+}
+h3{
+    color: rgb(139, 122, 36);
+}
+h4{
+    color: rgb(123, 99, 50);
+}
+.opcionsticker {
+    display: flex;
+    justify-content: space-around;
+    margin: 17px;
+}
+.sticker {
+    text-align: justify;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+button {
+    background-color: rgb(229, 158, 235);
+    margin-top: 15px;
+    padding: 10px;
+    font-size: 15px;
+}
